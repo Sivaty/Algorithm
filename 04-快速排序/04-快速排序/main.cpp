@@ -92,3 +92,24 @@ int main(int argc, const char * argv[]) {
     return 0;
 }
 
+void quickSort2(int array[], int lowIndex, int highIndex) {
+    if (lowIndex >= highIndex) {
+        return;
+    }
+    int first = lowIndex;
+    int last = highIndex;
+    int key = array[first];
+    while (first < last) {
+        while (first < last && array[last] >= key) {
+            --last;
+        }
+        array[first] = array[last];
+        while (first < last && array[first] <= key) {
+            ++first;
+        }
+        array[last] = array[first];
+    }
+    array[first] = key;
+    quickSort2(array, lowIndex, first - 1);
+    quickSort2(array, first + 1, highIndex);
+}
