@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="355e2bce-e1c4-4846-87ab-a75f770e3b74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/回溯/_46_全排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_Swift/1_两数之和/1_两数之和.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_Swift/1_两数之和/1_两数之和/main.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_Swift/汉诺塔问题/汉诺塔问题.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_Swift/汉诺塔问题/汉诺塔问题/main.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-Test/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-Test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-Test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-Test/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-Test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-Test/00-Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-Test/out/production/00-Test/com/link/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-Test/src/com/link/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-递归/01-递归.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-递归/01-递归.xcodeproj/xcuserdata/link.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-递归/01-递归.xcodeproj/xcuserdata/shuaibin.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-递归/01-递归.xcodeproj/xcuserdata/sivatmac.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-递归/01-递归/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-插入排序/02-插入排序.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-插入排序/02-插入排序.xcodeproj/xcuserdata/link.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-插入排序/02-插入排序.xcodeproj/xcuserdata/shuaibin.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-插入排序/02-插入排序.xcodeproj/xcuserdata/sivatmac.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-插入排序/02-插入排序/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-快速排序/04-快速排序.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-快速排序/04-快速排序.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-快速排序/04-快速排序.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-快速排序/04-快速排序.xcodeproj/project.xcworkspace/xcuserdata/link.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-快速排序/04-快速排序.xcodeproj/xcuserdata/link.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-快速排序/04-快速排序.xcodeproj/xcuserdata/sivatmac.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-快速排序/04-快速排序/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.xcworkspace/xcuserdata/link.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.xcworkspace/xcuserdata/shuaibin.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.xcworkspace/xcuserdata/sivatmac.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.xcworkspace/xcuserdata/sivatmac.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Array-1.两数之和/Array-1.两数之和.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Array-1.两数之和/Array-1.两数之和.xcodeproj/xcuserdata/link.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Array-1.两数之和/Array-1.两数之和/main.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/LeetCode.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/LeetCode.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/LeetCode.xcworkspace/xcuserdata/link.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/LeetCode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/二叉树/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/二叉树/_100_相同的树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/二叉树/_101_对称二叉树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/二叉树/_102_二叉树的层次遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/二叉树/_104_二叉树的最大深度.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/二叉树/_107_二叉树的层次遍历II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/二叉树/_144_二叉树的前序遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/二叉树/_145_二叉树的后序遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/二叉树/_226_翻转二叉树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/二叉树/_589_N叉树的前序遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/二叉树/_662_二叉树最大宽度.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/二叉树/_94_二叉树的中序遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/栈/_150_逆波兰表达式求值.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/栈/_20_有效的括号.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/栈/_224_基本计算器.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/栈/_856_括号的分数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/链表/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/链表/_141_环形链表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/链表/_203_移除链表元素.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/链表/_206_反转链表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/链表/_21_合并两个有序链表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/链表/_237_删除链表中的节点.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/链表/_83_删除排序链表中的重复元素.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode1/src/链表/_876_链表的中间结点.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/希尔排序(缩减增量排序)/希尔排序(缩减增量排序).xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/希尔排序(缩减增量排序)/希尔排序(缩减增量排序).xcodeproj/xcuserdata/link.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/希尔排序(缩减增量排序)/希尔排序(缩减增量排序).xcodeproj/xcuserdata/shuaibin.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/希尔排序(缩减增量排序)/希尔排序(缩减增量排序).xcodeproj/xcuserdata/sivatmac.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/希尔排序(缩减增量排序)/希尔排序(缩减增量排序)/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构.xmind" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="63" />
+    <option name="y" value="23" />
+    <option name="width" value="1531" />
+    <option name="height" value="983" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Algorithm" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="355e2bce-e1c4-4846-87ab-a75f770e3b74" name="Default Changelist" comment="" />
+      <created>1596278270648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596278270648</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="63" y="23" width="1531" height="983" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983211" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
